@@ -42,11 +42,9 @@ This project is part of the CSE0001 Digital Literacy course. It focuses on devel
 ## Task Summary
 
 ### Task 1: Infographic
-
 Created a digital literacy infographic using Canva covering key topics like online safety and tools.
 
 ### Task 2: Digital Portfolio
-
 Set up professional profiles on GitHub, LinkedIn, and HackerRank.
 
 ### Task 3: Platforms
