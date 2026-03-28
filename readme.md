@@ -61,7 +61,8 @@ Created a social media Do’s and Don’ts checklist
 ### Task 5: Cybercrime Awareness
 Wrote a case study on cybercrime
 Created a prevention checklist
-How to Use This Repository
+
+### How to Use This Repository
 Navigate through each task folder to view respective work
 Open the report folder for the complete project report
 
