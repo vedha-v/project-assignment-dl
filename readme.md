@@ -14,12 +14,12 @@ digital-literacy-project/
 ├── task1-presentation/
 │   └── infographic.png  ← (UPLOAD YOUR CANVA INFOGRAPHIC)
 │
+|
 ├── task-2-portfolio/
 │   ├── folder
 │        ├── linkedin.png
 │        ├── StackOverflow.png
 │        └──Github.png
-
 │  
 │
 ├── task-3-platforms/
@@ -50,7 +50,7 @@ This project is part of the CSE0001 Digital Literacy course. It focuses on devel
 
 Created a digital literacy infographic using Canva covering key topics like online safety and tools.
 
-## Task 2: Digital Portfolio
+### Task 2: Digital Portfolio
 
 Set up professional profiles on GitHub, LinkedIn, and HackerRank.
 
